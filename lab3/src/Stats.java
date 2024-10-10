@@ -1,6 +1,7 @@
 import java.util.Arrays;
 
 /**
+ * @author firdaus
  * A class to do statistical calculations on a set of data
  */
 public class Stats {
